@@ -19,8 +19,8 @@ Para las condiciones de Nicaragua y de muchos otros países pobres, es necesario
 
 ## Estructura de directorios
 
-00 Diseño\   Piezas para corte laser e impresion 3D
-01 AMBUs\    Diferentes modelos de AMBU
+00 Diseño\            Piezas para corte laser e impresion 3D
+01 AMBUs\             Diferentes modelos de AMBU
 02 Motores y driver\  Motores y caracteristicas
 03 Accesorios, valvulas, sensores\
 04 Electronica\       Diseño i sketch Arduino
