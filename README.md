@@ -4,10 +4,7 @@ Daniel Querol
 
 Nicaragua, 28 04 2020
 
-1.
-# Conceptos y objetivos
 
-  1.
 ## El porqué de este Respirador
 
 Nicaragua es el segundo país más pobre de América, y tiene un sistema de salud que, a falta de recursos, funciona con una mezcla de sobreesfuerzo del personal médico y mecanismos folclóricos para enfrentar patologías.
@@ -20,3 +17,13 @@ En la coyuntura actual parece razonable construir algún tipo de respirador que 
 
 Para las condiciones de Nicaragua y de muchos otros países pobres, es necesario diseñar un equipo que permita dar respiración asistida (sin necesaria supervisión médica directa, por ejemplo vía telemedicina) y cuyos costos sean bajos, que sea robusto y con componentes fácilmente disponibles.
 
+## Estructura de directorios
+
+00 Diseño\   Piezas para corte laser e impresion 3D
+01 AMBUs\    Diferentes modelos de AMBU
+02 Motores y driver\  Motores y caracteristicas
+03 Accesorios, valvulas, sensores\
+04 Electronica\       Diseño i sketch Arduino
+Informacion clinica\
+ISO 5356 connectors\
+Manuales de ventiladores y respiradores\
