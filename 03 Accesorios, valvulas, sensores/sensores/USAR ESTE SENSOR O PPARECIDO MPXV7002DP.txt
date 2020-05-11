@@ -1,0 +1,1 @@
+For the pressure measurement, I used a sensor MPXV7002DP. Someone develop also a CPAP pressure monitoring based on this sensor too. It can measure +-2kPa (20 cmH2o) which is enough for CPAP control which must be between 6-15 cmH2o.
