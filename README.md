@@ -4,6 +4,7 @@ Daniel Querol
 
 Nicaragua, 28 04 2020
 
+[![Alt text](https://img.youtube.com/vi/0zzoeBUPshY/0.jpg)](https://www.youtube.com/watch?v=0zzoeBUPshY)
 
 ## El porqué de este Respirador
 
