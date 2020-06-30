@@ -30,7 +30,7 @@ Para las condiciones de Nicaragua y de muchos otros países pobres, es necesario
 
 04 Electronica\       Diseño y sketch Arduino
 
-Informacion clinica\
+Informacion clinica\https://github.com/DQUEROL/Respirador-DQ3D-NICA/tree/master/Informacion%20clinica
 
 ISO 5356 connectors\
 
