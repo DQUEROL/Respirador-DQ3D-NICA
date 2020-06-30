@@ -14,25 +14,29 @@ Frente a la COVID-19 y con recursos muy limitados, el gobierno ha asumido una po
 
 Los primeros análisis médicos estiman que sólo un 10 a 20% de los pacientes sometidos a intubación mecánica consigue recuperarse, y con secuelas a corto y largo plazo.
 
-En la coyuntura actual parece razonable construir algún tipo de respirador que permita **respiración asistida** , ya que la **respiración controlada** incluye sedación, intubado y monitoreo, lo cual sólo puede ser hecho por un médico preparado y en condiciones hospitalarias.
+En la coyuntura actual parece razonable construir algún tipo de respirador que permita **respiración asistida** , ya que la **respiración controlada** incluye sedación, intubado y monitoreo, lo cual sólo puede ser hecho por un médico preparado y en condiciones hospitalarias. 
 
 Para las condiciones de Nicaragua y de muchos otros países pobres, es necesario diseñar un equipo que permita dar respiración asistida (sin necesaria supervisión médica directa, por ejemplo vía telemedicina) y cuyos costos sean bajos, que sea robusto y con componentes fácilmente disponibles.
+El equipo actualmente se puede onsiderar de la categorìa **BiPAP**.
 
 ## Estructura de directorios
 
-00 Diseño\            Piezas para corte laser e impresion 3D
+[Descripción completa del equipo y proceso de seleccion de caracteristicas y componentes](https://github.com/DQUEROL/Respirador-DQ3D-NICA/blob/master/Equipo%20apoyo%20respiratorio%20v2.docx)
 
-01 AMBUs\             Diferentes modelos de AMBU
+[00 Diseño](https://github.com/DQUEROL/Respirador-DQ3D-NICA/tree/master/00%20Dise%C3%B1o)            Piezas para corte laser e impresion 3D
 
-02 Motores y driver\  Motores y caracteristicas
+[01 AMBUs](https://github.com/DQUEROL/Respirador-DQ3D-NICA/tree/master/01%20AMBUs)             Diferentes modelos de AMBU utilizados en proyectos
 
-03 Accesorios, valvulas, sensores\
+[02 Motores y driver](https://github.com/DQUEROL/Respirador-DQ3D-NICA/tree/master/02%20Motores%20y%20driver)  Motores utilizados y caracteristicas
 
-04 Electronica\       Diseño y sketch Arduino
+[03 Accesorios, valvulas, sensores](https://github.com/DQUEROL/Respirador-DQ3D-NICA/tree/master/03%20Accesorios%2C%20valvulas%2C%20sensores) Informaciòn de los sensores revisados y utilizados, incluye PEEP.
 
-Informacion clinica\https://github.com/DQUEROL/Respirador-DQ3D-NICA/tree/master/Informacion%20clinica
+[04 Electronica](https://github.com/DQUEROL/Respirador-DQ3D-NICA/tree/master/04%20Electronica%20y%20firmware)       **Diseño y sketch Arduino**
 
-ISO 5356 connectors\
+[05 Fotos y Videos ](https://github.com/DQUEROL/Respirador-DQ3D-NICA/tree/master/05%20Fotos%20y%20videos)
 
-Manuales de ventiladores y respiradores\
+[06 Revisiones y Testing](https://github.com/DQUEROL/Respirador-DQ3D-NICA/tree/master/06%20Revisiones%20y%20Testing)   **Ultimas actualizaciones**
 
+[Información clínica](https://github.com/DQUEROL/Respirador-DQ3D-NICA/tree/master/Informacion%20clinica)
+
+[Manuales de ventiladores y respiradores](https://github.com/DQUEROL/Respirador-DQ3D-NICA/tree/master/Manuales%20de%20ventiladores%20y%20respiradores)
