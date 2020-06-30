@@ -31,11 +31,11 @@ El equipo actualmente se puede considerar de la categorìa **BiPAP**.
 
 [03 Accesorios, valvulas, sensores](https://github.com/DQUEROL/Respirador-DQ3D-NICA/tree/master/03%20Accesorios%2C%20valvulas%2C%20sensores) Informaciòn de los sensores revisados y utilizados, incluye PEEP.
 
-[04 Electronica](https://github.com/DQUEROL/Respirador-DQ3D-NICA/tree/master/04%20Electronica%20y%20firmware)       **   Diseño y sketch Arduino**
+[04 Electronica](https://github.com/DQUEROL/Respirador-DQ3D-NICA/tree/master/04%20Electronica%20y%20firmware)       **Diseño y sketch Arduino**
 
 [05 Fotos y Videos ](https://github.com/DQUEROL/Respirador-DQ3D-NICA/tree/master/05%20Fotos%20y%20videos)
 
-[06 Revisiones y Testing](https://github.com/DQUEROL/Respirador-DQ3D-NICA/tree/master/06%20Revisiones%20y%20Testing)   **   Ultimas actualizaciones**
+[06 Revisiones y Testing](https://github.com/DQUEROL/Respirador-DQ3D-NICA/tree/master/06%20Revisiones%20y%20Testing)   **Ultimas actualizaciones**
 
 [Información clínica](https://github.com/DQUEROL/Respirador-DQ3D-NICA/tree/master/Informacion%20clinica)
 
