@@ -17,7 +17,7 @@ Los primeros análisis médicos estiman que sólo un 10 a 20% de los pacientes s
 En la coyuntura actual parece razonable construir algún tipo de respirador que permita **respiración asistida** , ya que la **respiración controlada** incluye sedación, intubado y monitoreo, lo cual sólo puede ser hecho por un médico preparado y en condiciones hospitalarias. 
 
 Para las condiciones de Nicaragua y de muchos otros países pobres, es necesario diseñar un equipo que permita dar respiración asistida (sin necesaria supervisión médica directa, por ejemplo vía telemedicina) y cuyos costos sean bajos, que sea robusto y con componentes fácilmente disponibles.
-El equipo actualmente se puede onsiderar de la categorìa **BiPAP**.
+El equipo actualmente se puede considerar de la categorìa **BiPAP**.
 
 ## Estructura de directorios
 
@@ -31,12 +31,12 @@ El equipo actualmente se puede onsiderar de la categorìa **BiPAP**.
 
 [03 Accesorios, valvulas, sensores](https://github.com/DQUEROL/Respirador-DQ3D-NICA/tree/master/03%20Accesorios%2C%20valvulas%2C%20sensores) Informaciòn de los sensores revisados y utilizados, incluye PEEP.
 
-[04 Electronica](https://github.com/DQUEROL/Respirador-DQ3D-NICA/tree/master/04%20Electronica%20y%20firmware)       **Diseño y sketch Arduino**
+[04 Electronica](https://github.com/DQUEROL/Respirador-DQ3D-NICA/tree/master/04%20Electronica%20y%20firmware)       **   Diseño y sketch Arduino**
 
 [05 Fotos y Videos ](https://github.com/DQUEROL/Respirador-DQ3D-NICA/tree/master/05%20Fotos%20y%20videos)
 
-[06 Revisiones y Testing](https://github.com/DQUEROL/Respirador-DQ3D-NICA/tree/master/06%20Revisiones%20y%20Testing)   **Ultimas actualizaciones**
+[06 Revisiones y Testing](https://github.com/DQUEROL/Respirador-DQ3D-NICA/tree/master/06%20Revisiones%20y%20Testing)   **   Ultimas actualizaciones**
 
 [Información clínica](https://github.com/DQUEROL/Respirador-DQ3D-NICA/tree/master/Informacion%20clinica)
 
-[Manuales de ventiladores y respiradores](https://github.com/DQUEROL/Respirador-DQ3D-NICA/tree/master/Manuales%20de%20ventiladores%20y%20respiradores)
+[Manuales de otros ventiladores y respiradores](https://github.com/DQUEROL/Respirador-DQ3D-NICA/tree/master/Manuales%20de%20ventiladores%20y%20respiradores)
