@@ -1,7 +1,0 @@
-Ahmed Nasr I want to understand something, it's required to measure (0 to 40 cmH2O), BMP280 measures pressure in range of (300 to 1100 hPa) which is multiplications of required pressure to be measured, how could you measure the pressure by this sensor ?
-
-am I misunderstanding something ?
-
-
-    Boris Kuster
-    Boris Kuster The 0-40 cmH2O refers to relative pressure. (Relative in regards to atmospheric pressure). So, 40cm H20 means 0.04 bar. So absolute pressure in patient lungs that must be measured is 1bar - 1.04 bar. BMP280 measures (300 to 1100 hPa) which is 0.3 to 1.1 bar.
